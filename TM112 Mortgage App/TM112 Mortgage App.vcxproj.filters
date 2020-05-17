@@ -18,9 +18,15 @@
     <ClCompile Include="TM112 Mortgage App.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="SavConsoleWindows.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TM112Mortgage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SavConsoleWindow.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

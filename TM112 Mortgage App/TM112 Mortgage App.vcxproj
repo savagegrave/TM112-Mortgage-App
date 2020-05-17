@@ -147,9 +147,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="SavConsoleWindows.cpp" />
     <ClCompile Include="TM112 Mortgage App.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="SavConsoleWindow.h" />
     <ClInclude Include="TM112Mortgage.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
